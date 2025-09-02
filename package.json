@@ -1,0 +1,15 @@
+{
+  "name": "mts20t2-desafio-logica-01",
+  "version": "1.0.0",
+  "description": "Desafio lógica - cálculo de desconto",
+  "main": "src/calculoDesconto.js",
+  "scripts": {
+    "test": "mocha \"tests/**/*.test.js\" --exit"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
